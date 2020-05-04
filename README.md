@@ -1,4 +1,4 @@
-trojan://ee272153@www.nanjing.cf:443#TW-Trojan
+trojan://547b1799@www.nanjing.cf:443#TW-Trojan
 trojan://4f198876@www.nuist.ga:443#KR-Trojan
 trojan://5b928dfd@www.liyang.cf:443#IE-Trojan
 trojan://3b81471c@www.waterford.cf:443#HK-Trojan
